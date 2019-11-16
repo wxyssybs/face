@@ -192,4 +192,4 @@ history = model.fit_generator(
             validation_steps=10
         )
 
-model.save('./model/model_11_16_10_03.h5')
+model.save('./model_11_16_10_03.h5')
